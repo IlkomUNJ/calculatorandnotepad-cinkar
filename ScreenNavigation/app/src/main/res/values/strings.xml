@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScreenNavigation</string>
+
+    <string name="search_here">Seaech Here</string>
+    <string name="clear">CLear</string>
+    <string name="no_data">No Data</string>
+    <string name="add_note">Add Note</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="add_text">Add Some Text</string>
+    <string name="edited_on">Edited on: %1$s</string>
+
+</resources>
